@@ -1,0 +1,120 @@
+.header div{
+    margin-bottom: 70px;
+    font-size: 24px #f9faf8;
+}
+
+.header{
+    background-color: #1F2937;
+    color: white;
+    height: 320px;
+    margin-bottom: 50px;
+    display: flex;
+}
+    .texto-boton div{
+        font-weight: bold;
+        
+    }
+    .texto-boton{
+        font-weight: bo;
+        margin-left: 100px;
+        margin-right: 40px;
+    }
+    .texto-boton button{
+        margin-top: 10px;
+        color: white;
+        background-color:#3882f6;
+        border-radius: 4px;
+        border:#3882f6;
+        padding: 4px 24px;
+    }
+
+    .links-foto{
+        margin-right: 150px;
+    }
+    
+    
+.body{
+    text-align: center;
+    
+}
+
+    .miniaturas{
+        margin-right: 150px;
+        margin-left: 150px;
+        display:flex ;
+        justify-content: space-between;
+        
+    }
+
+    .textos{
+        font-size: 18px;
+        margin-right: 160px;
+        margin-left: 160px;
+        margin-bottom: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    height: 350px;
+    font-style: italic;
+    font-weight: light;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 120px;
+    padding-right: 120px;
+    
+}
+.quote div{
+    font-weight: bold;
+    text-align: end;
+    font-size: 28px;
+}
+
+.call-to-action{
+    background-color:#3882f6;
+    color: white;
+    font-weight: light;
+    height: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-left:100px
+    
+    
+    
+    
+}
+.call-to-action div{
+    font-weight: bold;
+    
+}
+.call-to-action button{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: white;
+    background-color:#3882f6;
+    border-radius: 8px;
+    padding: 4px 24px;
+    border-color: #f9faf8;
+    
+}
+
+
+.footer{
+    background-color: #1F2937;
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin-top: 25px;
+    padding: 25px;
+    
+}
